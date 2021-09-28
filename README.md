@@ -1,5 +1,5 @@
 ## SangHyun Jeong
-<!-- [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=tkdgusl94&show_icons=true"/>](https://github.com/tkdgusl94/) -->
+[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=tkdgusl94&show_icons=true"/>](https://github.com/tkdgusl94/)
 
 <div align=left>
 
