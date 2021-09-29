@@ -12,4 +12,4 @@
 ### Android & Kotlin Developer
 I'm an **Android developer** who enjoys challenges. I'm always studying and thinking about becoming a person who grows steadily.
 
-![Image of Yaktocat](https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/tkdgusl94/tkdgusl94/blob/output/github-contribution-grid-snake.svg)
