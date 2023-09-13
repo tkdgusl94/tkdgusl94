@@ -11,5 +11,3 @@
 
 ### Android & Kotlin Developer
 I'm an **Android developer** who enjoys challenges. I'm always studying and thinking about becoming a person who grows steadily.
-
-![snake gif](https://github.com/tkdgusl94/tkdgusl94/blob/output/github-contribution-grid-snake.svg)
